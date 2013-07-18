@@ -130,7 +130,7 @@
     <system:String x:Key="btnCloneTabTTX">Otwórz nową kartę w tej samej lokalizacji, co obecnie przeglądana</system:String>
     <system:String x:Key="btnUndoCloseCP">Przywróć ostatnio zamkniętą kartę</system:String>
     <system:String x:Key="btnUndoCloseHCP">Ponownie otwiera niedawno zamkniętą kartę.</system:String>
-    <system:String x:Key="miClearList">Clear List</system:String>
+    <system:String x:Key="miClearList">Wyczyść listę</system:String>
     <system:String x:Key="btnSavedTabsCP">Zapisane karty</system:String>
     <system:String x:Key="btnSavedTabsHCP">Zachowaj kolekcję swoich ulubionych kart lub otwórz poprzednio zachowaną kolekcję.</system:String>
     <system:String x:Key="miSaveTabs">Zapisz otwarte karty</system:String>
@@ -168,8 +168,8 @@
     <system:String x:Key="tgCurrentViewCP">Obecny widok</system:String>
     <system:String x:Key="btnSortByCP">Sortuj</system:String>
     <system:String x:Key="btnSortICP">Zmień, w jaki sposób zawartości folderów są sortowane</system:String>
-    <system:String x:Key="miDescending">Descending</system:String>
-    <system:String x:Key="miAscending">Ascending</system:String>
+    <system:String x:Key="miDescending">Malejąco</system:String>
+    <system:String x:Key="miAscending">Rosnąco</system:String>
     <system:String x:Key="btnGroupByCP">Grupuj</system:String>
     <system:String x:Key="btnAutoSizeColCP">Wyrównaj kolumny</system:String>
     <system:String x:Key="btnAutoSizeColICP">Zmień szerokość kolumn, by pasowały do swojej zawartości</system:String>
@@ -220,8 +220,8 @@
     <system:String x:Key="tgImgEditCP">Edycja</system:String>
     <system:String x:Key="btnRotateLeftCP">Obróć w lewo</system:String>
     <system:String x:Key="btnRotateRightCP">Obróć w prawo</system:String>
-    <system:String x:Key="btnFlipXCP">Odwróć poziomo</system:String>
-    <system:String x:Key="btnFlipYCP">Odwróć pionowo</system:String>
+    <system:String x:Key="btnFlipXCP">Przerzuć w poziomie</system:String>
+    <system:String x:Key="btnFlipYCP">Przerzuć w pionie</system:String>
     <system:String x:Key="btnConvertImageCP">Przekonwertuj</system:String>
     <system:String x:Key="miJPGfCP">Do JPEG</system:String>
     <system:String x:Key="miPNGfCP">Do PNG</system:String>
